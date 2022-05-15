@@ -10,4 +10,4 @@
 
 [![Build_CI - Linux](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/Linux.yml/badge.svg)](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/Linux.yml)
 
-
+[![Bulid CI - windows](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/windows.yml/badge.svg)](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/windows.yml)
