@@ -13,3 +13,5 @@
 [![Code Quality - Cppcheck](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/Cpp.yml/badge.svg)](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/Cpp.yml)
 
 [![Build_CI - Linux](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/Linux.yml/badge.svg)](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/Linux.yml)
+
+[![Build_CI - Linux](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/Linux.yml/badge.svg)](https://github.com/rbahamani/M3_WIPER_SYSTEM/actions/workflows/Linux.yml)
