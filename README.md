@@ -2,11 +2,10 @@
 
 # BADGES
 
-[![Code Quality - Cppcheck](https://github.com/BhavanamGayathri/M3_Control_of_Wiper_System/actions/workflows/Cpp.yml/badge.svg)](https://github.com/BhavanamGayathri/M3_Control_of_Wiper_System/actions/workflows/Cpp.yml)
+# CODIGA
 
+![codiga badge](https://api.codiga.io/project/33543/score/svg) ![codiga badge](https://api.codiga.io/project/33543/status/svg)
 
-[![Bulid CI - windows](https://github.com/BhavanamGayathri/M3_Control_of_Wiper_System/actions/workflows/windows.yml/badge.svg)](https://github.com/BhavanamGayathri/M3_Control_of_Wiper_System/actions/workflows/windows.yml)
+# CODACY
 
-[![Build_CI - Linux](https://github.com/BhavanamGayathri/M3_Control_of_Wiper_System/actions/workflows/Linux.yml/badge.svg)](https://github.com/BhavanamGayathri/M3_Control_of_Wiper_System/actions/workflows/Linux.yml)
-
-[![Analysis](https://github.com/BhavanamGayathri/M3_Control_of_Wiper_System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/BhavanamGayathri/M3_Control_of_Wiper_System/actions/workflows/Analysis.yml)
+![codacy badge]()
